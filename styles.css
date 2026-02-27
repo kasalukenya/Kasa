@@ -1,0 +1,137 @@
+body{
+     background: rgb(999, 295, 599);
+}
+header{
+ background: gray ;
+ margin-left: 50px;
+ margin-right: 50px;
+ border-radius: 16px;
+}
+header images{
+     width : 50px;
+     padding-top: 10px;
+     padding-left: 15px;
+}
+     header nav{
+          float: right;
+
+     }
+     header nav ul a{
+          text-decoration: none;
+          list-style: none;
+
+     }
+     header nav ul{
+          list-style: none; /*retire le tirer*/
+          display: flex; /* converti une liste verticale en horizotal*/
+          gap: 15px;
+         
+
+
+     }
+      header nav ul li a:hover{
+          color: #f3pc12;
+          font-size: 18px;
+           
+
+      }
+       header nav ul a{
+    color: blue;
+ margin-left: 10px;
+ margin-right: 10px;
+ border-radius: 8px;
+ border-radius: 16px;
+
+     }
+      P{
+          ;
+ margin-left: 50px;
+ margin-right: 50px;
+ color: ;
+      }
+      H2{
+          background: gray ;
+ margin-left: 50px;
+ margin-right: 800px;
+ color: white;
+
+
+      }
+ H1{
+          ;
+ margin-left: 50px;
+ margin-right: 50px;
+ color: white;
+      }
+
+    H3{
+          ;
+ margin-left: 50px;
+ margin-right: 50px;
+ color: white;
+ 
+      }
+
+video{
+      margin-left: 50px;
+ margin-right: 50px;
+}
+
+img{
+      margin-left: 50px;
+ margin-right: 50px;
+ 
+}
+
+div{
+   margin-left: 50px;
+ margin-right: 50px;
+}  
+
+form label {
+   margin-left: 50px;
+ margin-right: 50px;
+  
+}  
+
+form input {
+   margin-left: 50px;
+ margin-right: 50px;
+  
+}  
+
+form textarea {
+   margin-left: 50px;
+ margin-right: 50px;
+ border-radius: darkblue;
+ 
+}  
+
+tr td input{
+    margin-left: 50px;
+ margin-right: 50px; 
+ background: beige; 
+  
+
+ 
+}
+
+form button{
+      color: white;
+  font-size: 15px;
+ margin-left: 50px;
+ margin-right: 50px; 
+  background: gray;
+  border-radius: 16px;
+}
+p button{
+     color: white;
+  font-size: 15px;
+ margin-left: 50px;
+ margin-right: 50px; 
+  background: teal;
+  padding-top: 15;
+  padding-left: 15;
+ 
+   
+}
